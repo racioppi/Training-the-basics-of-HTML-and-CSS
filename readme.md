@@ -4,7 +4,7 @@
 
 #### Here I added some components that weren't in the original project from the course and some minor personal decisions such as mesures and styles.
 
-## Website link: <https://trainingthebasics.netlify.app/>
+#### Website link: <https://trainingthebasics.netlify.app/>
 
 # Sreenshot from the hero page:
 
